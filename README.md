@@ -9,5 +9,5 @@ A nord theme for Ulauncher
 To install this theme, clone this repo to `~/.config/ulauncher/user-themes`
 ```
 git clone https://github.com/vnbubba/ulauncher-nord-lighter/ \
-  ~/.config/ulauncher/user-themes/nord
+  ~/.config/ulauncher/user-themes/nord-lighter
 ```
